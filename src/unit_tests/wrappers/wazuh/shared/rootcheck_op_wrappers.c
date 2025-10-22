@@ -10,6 +10,7 @@
 
 #include <stddef.h>
 #include <stdarg.h>
+#include <stdint.h>
 #include <setjmp.h>
 #include <cmocka.h>
 #include <stdio.h>

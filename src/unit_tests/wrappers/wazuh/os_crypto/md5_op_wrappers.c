@@ -10,6 +10,7 @@
 #include "md5_op_wrappers.h"
 #include <stddef.h>
 #include <stdarg.h>
+#include <stdint.h>
 #include <setjmp.h>
 #include <cmocka.h>
 
